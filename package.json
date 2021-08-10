@@ -1,0 +1,16 @@
+{
+  "name": "singlestore-node-quickstart",
+  "version": "1.0.0",
+  "description": "Getting started with SingleStore and Node.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Joe Karlsson",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "mysql2": "^2.3.0"
+  }
+}
